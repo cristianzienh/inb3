@@ -6,3 +6,4 @@ teste http 2
 nova linha
 estou corrigindo o bug 1
 comecei a correção do bug 2
+estou na metade da correção do bug2
